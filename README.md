@@ -56,18 +56,17 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0F0F0F?style=for-the-badge&logo=owasp&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white)
 
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Kucing-Dev&show_icons=true&theme=tokyonight)
 
-
-
-
-## 📈 GitHub Stats
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+<!--## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)-->
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Kucing-Dev&theme=darkhub)
 
 ## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kucing-Dev&theme=radical)
 
 ## 🔧 Featured Projects
 ### 🔥 **[Project 1](https://github.com/yourusername/project1)**
@@ -86,7 +85,4 @@ Thanks for stopping by! Feel free to explore my repositories and let's connect. 
 [![Twitter](https://img.shields.io/badge/Twitter-@0xMiawChan-1DA1F2?style=flat&logo=twitter)](https://twitter.com/0xMiawChan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0xMiawChan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/0xMiawChan)
 [![Instagram](https://img.shields.io/badge/Instagram-@miaw.chan-E4405F?style=flat&logo=instagram)](https://instagram.com/miaw.chan)
-
-
-
 
