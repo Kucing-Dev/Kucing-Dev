@@ -1,4 +1,4 @@
-# Hey there, I'm **[Your Name]** 👋
+# Hey there, I'm **0xMiawChan** 👋
 
 ## 🚀 About Me
 I'm a passionate developer and cybersecurity enthusiast with a strong interest in **offensive security**, **defensive security**, and **ethical hacking**. Currently, I’m focused on mastering tools and techniques for **OSINT** and **penetration testing**.
