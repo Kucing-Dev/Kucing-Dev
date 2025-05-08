@@ -58,7 +58,7 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Kucing-Dev&show_icons=true&theme=tokyonight)
 
-<!--## 🏆 GitHub Trophies
+ <!--🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)-->
 
 ## 🏆 GitHub Trophies
