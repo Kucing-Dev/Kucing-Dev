@@ -75,17 +75,6 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kucing-Dev&theme=radical)
 
-## 🔧 Featured Projects
-### 🔥 **[Project 1](https://github.com/yourusername/project1)**
-*Description*: A tool designed to [describe what the project does]. Built using [technologies used].
-
-### ⚡ **[Project 2](https://github.com/yourusername/project2)**
-*Description*: A cybersecurity research project focused on [project's focus]. Aimed to help [purpose of project].
-
-### 🛡️ **[Project 3](https://github.com/yourusername/project3)**
-*Description*: Open-source tool for penetration testing, helping with [specific use cases].
-
-Thanks for stopping by! Feel free to explore my repositories and let's connect. 🚀
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-miawchan@proton.me-ff66c4?style=flat&logo=protonmail)](mailto:miawchan@proton.me)
 [![Twitter](https://img.shields.io/badge/Twitter-@0xMiawChan-1DA1F2?style=flat&logo=twitter)](https://twitter.com/0xMiawChan)
