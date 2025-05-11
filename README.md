@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:a1c4fd&height=200&section=header&text=Hi%20there!%20i'm%200xMiawChan🌸&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20Tropical%20Dev%20Island&descAlignY=55&animation=fadeIn" />
 </div>
 
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%92%BB;OSINT+%26+Pentest+Explorer+%F0%9F%94%AE;Always+learning+and+breaking+stuff+%F0%9F%98%88" alt="Typing SVG" />
 </p>
