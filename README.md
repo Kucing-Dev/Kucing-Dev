@@ -90,10 +90,3 @@ Thanks for stopping by! Feel free to explore my repositories and let's connect. 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0xMiawChan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/0xMiawChan)
 [![Instagram](https://img.shields.io/badge/Instagram-@miaw.chan-E4405F?style=flat&logo=instagram)](https://instagram.com/miaw.chan)
 
-![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kucing-Dev&theme=tokyo-night)
-
-
-
-
-
-
