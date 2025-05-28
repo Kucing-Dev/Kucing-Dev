@@ -75,6 +75,9 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kucing-Dev&theme=radical)
 
+# Roadmap on progres
+[![roadmap.sh](https://roadmap.sh/card/tall/6835f19bcf080f2a32431ccf?variant=dark)](https://roadmap.sh)
+
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-miawchan@proton.me-ff66c4?style=flat&logo=protonmail)](mailto:miawchan@proton.me)
 [![Twitter](https://img.shields.io/badge/Twitter-@0xMiawChan-1DA1F2?style=flat&logo=twitter)](https://twitter.com/0xMiawChan)
