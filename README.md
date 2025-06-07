@@ -12,11 +12,11 @@
 ## 🚀 About Me
 I'm a passionate developer and cybersecurity enthusiast with a strong interest in **offensive security**, **defensive security**, and **ethical hacking**. Currently, I’m focused on mastering tools and techniques for **OSINT** and **penetration testing**.
 
-- 🔭 Currently working on **project Felisa Forum**
+- 🔭 Currently working on **project Felisa Forum & Luna Forum**
 - 🌱 Learning **Cyber security,Web developer & Graphic design**
 - 👯 I’m open to collaborating on **open-source security projects** and **research**.
 - 💬 Ask me about **security Analyst ,Graphic design & Malware development**
-- ⚡ Fun fact: I like to bite my cat's tail ;v
+- ⚡ Fun fact: I like to bite my cat's tail :v
 
 ## 🛠️ Technologies & Tools
 
