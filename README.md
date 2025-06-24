@@ -61,10 +61,10 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-0F0F0F?style=for-the-badge&logo=owasp&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burp-suite&logoColor=white)
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kucing-Dev&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kucing-Dev&layout=compact&theme=tokyonight" width="300"/>
-</p>
+</p>-->
 
 ![](https://github-contributor-stats.vercel.app/api?username=Kucing-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
