@@ -66,6 +66,9 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kucing-Dev&layout=compact&theme=tokyonight" width="300"/>
 </p>-->
 
+<p align="left">
+  <img src="https://media.tenor.com/4ljsTvme6UEAAAAi/bubu-dudu-sseeyall.gif" width="50"/> 
+
 ![](https://github-contributor-stats.vercel.app/api?username=Kucing-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
@@ -105,3 +108,7 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 | Framework/Library | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=tailwindcss" width="42" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 | Sistem Operasi| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="40"/>
 | Tech | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
+
+
+
+
