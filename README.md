@@ -66,6 +66,14 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kucing-Dev&layout=compact&theme=tokyonight" width="300"/>
 </p>
 
+![](https://github-contributor-stats.vercel.app/api?username=Kucing-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kucing-Dev&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kucing-Dev&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtarafdar&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kucing-Dev&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtarafdar&theme=algolia&utcOffset=8)
+
+
 <!--## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Kucing-Dev&show_icons=true&theme=tokyonight)-->
 
@@ -78,8 +86,8 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 ## 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kucing-Dev&theme=radical)
 
-### Roadmap on progres
-[![roadmap.sh](https://roadmap.sh/card/tall/6835f19bcf080f2a32431ccf?variant=dark)](https://roadmap.sh)
+<!--### Roadmap on progres
+[![roadmap.sh](https://roadmap.sh/card/tall/6835f19bcf080f2a32431ccf?variant=dark)](https://roadmap.sh)-->
 
 ## 📫 Contact Me
 [![Email](https://img.shields.io/badge/Email-miawchan@proton.me-ff66c4?style=flat&logo=protonmail)](mailto:miawchan@proton.me)
@@ -89,10 +97,4 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 [![Instagram](https://img.shields.io/badge/Instagram-@miaw.chan-E4405F?style=flat&logo=instagram)](https://instagram.com/miaw.chan)
 
 
-![](https://github-contributor-stats.vercel.app/api?username=Kucing-Dev&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kucing-Dev&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Kucing-Dev&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gtarafdar&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kucing-Dev&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gtarafdar&theme=algolia&utcOffset=8)
 
