@@ -1,8 +1,11 @@
 <!--<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6c1,100:a1c4fd&height=200&section=header&text=Hi%20there!%20i'm%200xMiawChan🌸&fontSize=40&fontAlignY=35&desc=Welcome%20to%20my%20Tropical%20Dev%20Island&descAlignY=55&animation=fadeIn" />
 </div>-->
+<!--![banner](https://github.com/user-attachments/assets/4620338f-1319-4b21-a2a5-c2c118fa19ed)-->
 
-![banner](https://github.com/user-attachments/assets/4620338f-1319-4b21-a2a5-c2c118fa19ed)
+
+![BG](https://github.com/user-attachments/assets/2da48541-e494-4907-813c-2d107edae54b)
+
 
 
 <p align="center">
