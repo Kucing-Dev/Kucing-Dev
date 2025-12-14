@@ -40,15 +40,10 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
   <img src="https://cdn.simpleicons.org/kibana" width="40" />
 </p>
 
-## Web development tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,npm,git,github,gitlab,vscode,replit,stackoverflow,sublime," />
-</p>
-
-## DevOps Engineer
+## Software engineer & mobile development 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,azure,aws" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,azure,react,tailwind,bootstrap,nodejs,npm,vscode,gcp,idea,pycharm,replit,stackoverflow,sublime" />
 </p>
 
 ## Programming Language
@@ -56,6 +51,24 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,kotlin,rust,html,css&theme=dark" />
 </p>
+
+## Design grafis tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr" />
+</p>
+
+## System Operation
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,kali,debian,ubuntu,mint" />
+</p>
+
+## Social Media
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=instagram,linkedin,twitter,discord" />
+</p>
+
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kucing-Dev&show_icons=true&theme=tokyonight" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kucing-Dev&layout=compact&theme=tokyonight" width="300"/>
@@ -87,22 +100,8 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 <!--### Roadmap on progres
 [![roadmap.sh](https://roadmap.sh/card/tall/6835f19bcf080f2a32431ccf?variant=dark)](https://roadmap.sh)-->
 
-## 📫 Contact Me
-[![Email](https://img.shields.io/badge/Email-miawchan@proton.me-ff66c4?style=flat&logo=protonmail)](mailto:miawchan@proton.me)
-[![Twitter](https://img.shields.io/badge/Twitter-@0xMiawChan-1DA1F2?style=flat&logo=twitter)](https://twitter.com/0xMiawChan)
-[![Twitter](https://img.shields.io/badge/Twitter-@0xMiawChan-1DA1F2?style=flat&logo=twitter)](https://twitter.com/0xMiawChan)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0xMiawChan-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/0xMiawChan)
-[![Instagram](https://img.shields.io/badge/Instagram-@miaw.chan-E4405F?style=flat&logo=instagram)](https://instagram.com/miaw.chan)
-
-## <img src="https://media.tenor.com/KdkhCJ65m0sAAAAj/peach-goma-peach-and-goma.gif" width="50" height="35px" alt="Link Laptop Computer"> The Tools Behind My Craft
 
 
-| Nama teknologi | Logo |
-|------|----------------|
-| Bahasa pemrograman|<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-| Framework/Library | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=tailwindcss" width="42" height="42"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-| Sistem Operasi| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="40"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Linux_Mint_logo_without_wordmark.svg" width="40"/>
-| Tech | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40"/>
 
 
 
