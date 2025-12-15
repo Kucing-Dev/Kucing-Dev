@@ -43,7 +43,7 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
 ## Software engineer & mobile development 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,azure,react,tailwind,bootstrap,nodejs,npm,vscode,gcp,idea,pycharm,replit,stackoverflow,sublime" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,azure,react,tailwind,bootstrap,nodejs,npm,vscode,gcp,idea,pycharm,replit,stackoverflow,sublime,aws" />
 </p>
 
 ## Programming Language
