@@ -91,12 +91,11 @@ I'm a passionate developer and cybersecurity enthusiast with a strong interest i
  <!--🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=darkhub)-->
 
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=Kucing-Dev&theme=darkhub) 
+<!--## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Kucing-Dev&show_icons=true&theme=radical)
 
-## 🔥 Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kucing-Dev&theme=radical)
-
+## 🔥 GitHub Streak
+![Streak](https://streak-stats.demolab.com?user=Kucing-Dev&theme=radical)
 <!--### Roadmap on progres
 [![roadmap.sh](https://roadmap.sh/card/tall/6835f19bcf080f2a32431ccf?variant=dark)](https://roadmap.sh)-->
 
