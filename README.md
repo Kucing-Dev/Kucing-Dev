@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%92%BB;OSINT+%26+Pentest+Explorer+%F0%9F%94%AE;Always+learning+and+breaking+stuff+%F0%9F%98%88" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&width=435&lines=Cybersecurity+Enthusiast+%F0%9F%92%BB;SOC+Analyst+%26+Ethical+Hacker+%F0%9F%94%AE;Always+learning+and+breaking+stuff+%F0%9F%98%88" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
